@@ -1,7 +1,7 @@
 ## Hi, I'm Aswath💫
 
 Entry level Full-Stack developer looking for oppertunities🧑‍💻</br>
-I code responsive Front-Ends and Full backend systems to stay consistent💻</br>
+I code responsive Front-Ends and Full-Stack backends for it to stay consistent💻</br>
 Catch me on [Portfolio](https://aswathrs.netlify.app/)
 
 
