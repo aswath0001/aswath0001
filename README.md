@@ -2,7 +2,8 @@
 
 Entry level Full-Stack developer looking for oppertunities🧑‍💻</br>
 I code responsive Front-Ends and Full backend systems to stay consistent💻</br>
-Catch me on [Instagram](https://www.instagram.com/ashwath_1004)
+Catch me on [Portfolio](https://aswathrs.netlify.app/)
+
 
 
 ## 🌐 Socials:
